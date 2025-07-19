@@ -1,2 +1,0 @@
-# PRODIGY CS INTERSHIP  
-  
