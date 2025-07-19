@@ -37,3 +37,5 @@ while not wanna_end :
         if play_again == 'no' :
             wanna_end = True
             print("Hava a nice day")
+
+            
